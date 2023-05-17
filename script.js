@@ -10,7 +10,7 @@ let n=arr[0]+arr[1];
 arr.splice(0,2,n);
 // console.log(arr);
 }
-console.log(sum);
+return sum;
   
   
   
