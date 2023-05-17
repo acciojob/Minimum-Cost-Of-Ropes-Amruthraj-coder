@@ -15,5 +15,5 @@ arr.splice(0,2,n);
 // return sum;
   
   
-   document.getElementById("result").innerHTML =sum
+   document.getElementById("result").innerText =sum
 }  
