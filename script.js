@@ -10,5 +10,5 @@ sum+=arr[0]+arr[1];
 let n=arr[0]+arr[1];
 arr.splice(0,2,n);
 }
-   document.getElementById("result").textContent =sum;
+   document.getElementById("result").innerText =sum;
 }  
